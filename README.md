@@ -1,81 +1,55 @@
-# Hello, I'm Kendrick Kipngeno
-<a href="https://linkedin.com/in/kipngeno-kendrick"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://medium.com/@k3ndr1ck"><img src="https://img.shields.io/badge/-Medium-000000?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
+# 👋 Hi, I'm Kendrick Kipngeno
 
-I'm an IT specialist  with a strong foundation in cybersecurity. I am competent in both offensive security methodologies and defensive operations. I believe in understanding the attacker's mindset to build more resilient defenses.
+🔐 IT specialist | Cybersecurity analyst (in progress) | Red & Blue team curious
 
-My approach combines red team curiosity with blue team discipline, from enumeration and exploitation to detection and incident response. I'm passionate about protecting organizational infrastructure through continuous learning and hands-on lab work.
+I build home labs, simulate attacks, and document the entire process.  
+My approach: *think like an attacker, defend like an engineer.*
 
----
-
-## 🛠️ Core Skills
-
-## Skills
-
-| Skill | Associated Project |
-|:------|:-------------------|
-| Active Directory Security & Attack Simulation | <a href="#">Active Directory Lab</a> |
-| SIEM Implementation & Log Analysis (Wazuh/Splunk) | <a href="#">Cloud SOC Lab</a> |
-| Vulnerability Assessment (Nessus/OpenVAS) | <a href="#">Host Enumeration Lab</a> |
-| Threat Detection & Incident Response | <a href="#">Cloud SOC Lab</a> |
-| Network Enumeration & Service Discovery | <a href="#">Host Enumeration Lab</a> |
-| CTF Challenge Solving & Technical Writeups | <a href="#">Medium Blog</a> |
----
-
-## 🧰 Tools & Technologies
-
-### Offensive Security
-<div>
-    <img src="https://img.shields.io/badge/-Metasploit-2C2C2C?&style=for-the-badge&logo=metasploit&logoColor=blue" />
-    <img src="https://img.shields.io/badge/-Nmap-0047AB?&style=for-the-badge&logo=nmap&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp_Suite-FF6C37?&style=for-the-badge&logo=burpsuite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nessus-00A98F?&style=for-the-badge&logo=tenable&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OpenVAS-2C2C2C?&style=for-the-badge&logo=openvas&logoColor=green" />
-</div>
-
-### Defensive Security & SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Wazuh-2C2C2C?&style=for-the-badge&logo=wazuh&logoColor=blue" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Sysmon-4B275F?&style=for-the-badge&logo=microsoft&logoColor=white" />
-</div>
-
-### Cloud & Infrastructure
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Azure-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
-</div>
-
-### Scripting & Automation
-<div>
-    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kipngeno-kendrick)
+[![Medium](https://img.shields.io/badge/-Medium-000000?&style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@k3ndr1ck)
 
 ---
 
-## 📜 Certifications
+## 🔥 Featured Projects (documentation)
 
-<div>
-    <img src="https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?&style=for-the-badge&logo=comptia&logoColor=white" />
-    <img src="https://img.shields.io/badge/-(ISC)%C2%B2%20Certified%20in%20Cybersecurity-2C2C2C?&style=for-the-badge&logo=isc2&logoColor=orange" />
-    <img src="https://img.shields.io/badge/-Cyber%20Shujaa%20Security%20Analyst-00A98F?&style=for-the-badge&logo=tryhackme&logoColor=white" />
-</div>
+| Project | Description | Skills |
+|---------|-------------|--------|
+| **[Active Directory Lab](https://github.com/kenn-drick/Active-Directory-Lab)** | Built domain controllers, DNS, DHCP, Group Policies, user/group management. Simulated Kerberoasting, Pass-the-Hash, privilege escalation → then applied detection & hardening. | `AD` `Red Team` `Blue Team` `GPO` |
+| **[Vulnerability Assessment with Nessus](https://github.com/yourusername/nessus-lab)** | Scanned Windows & Linux VMs for misconfigurations and missing patches. Analysed findings and implemented remediations. | `Nessus` `Vulnerability Management` |
+| **[Python Security Scripts](https://github.com/yourusername/python-security-scripts)** | Password hashing, encryption/decryption, brute‑force key script (used in AIG virtual experience). | `Python` `Automation` |
+| **[CTF Write‑ups](https://medium.com/@k3ndr1ck)** | Technical walkthroughs for TryHackMe & HackTheBox challenges. | `Enumeration` `Exploitation` `Reporting` |
 
 ---
 
-## Projects
+## 🛠️ Tools & Certifications
 
-**Active Directory Lab Setup**  
-Building an AD environment in Azure with attack simulations and detection rules.
+**Certifications**  
+![CompTIA Security+](https://img.shields.io/badge/-CompTIA%20Security%2B-FF0000?style=flat-square&logo=comptia&logoColor=white)
+![(ISC)² CC](https://img.shields.io/badge/-(ISC)%C2%B2%20CC-2C2C2C?style=flat-square&logo=isc2&logoColor=orange)
+![Microsoft SC-900](https://img.shields.io/badge/-SC--900-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Cyber Shujaa](https://img.shields.io/badge/-Cyber%20Shujaa-00A98F?style=flat-square&logo=tryhackme&logoColor=white)
 
-**SOC Lab Setup**  
-Deploying Wazuh SIEM in the cloud with custom detection rules and threat hunting workflows.
+**Offensive**  
+![Metasploit](https://img.shields.io/badge/-Metasploit-2C2C2C?style=flat-square&logo=metasploit&logoColor=blue)
+![Nmap](https://img.shields.io/badge/-Nmap-0047AB?style=flat-square&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6C37?style=flat-square&logo=burpsuite&logoColor=white)
 
-**CTF Write-ups**  
-Publishing detailed technical writeups from TryHackMe, HackTheBox, and CTF challenges.
+**Defensive**  
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Wazuh](https://img.shields.io/badge/-Wazuh-2C2C2C?style=flat-square&logo=wazuh&logoColor=blue)
+![Sysmon](https://img.shields.io/badge/-Sysmon-4B275F?style=flat-square&logo=microsoft&logoColor=white)
+
+**Scripting & OS**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## 📫 Let’s connect
+
+- **LinkedIn:** [linkedin.com/in/kipngeno-kendrick](https://linkedin.com/in/kipngeno-kendrick)  
+- **Medium blog:** [@k3ndr1ck](https://medium.com/@k3ndr1ck)
+
+> 💡 *All my project documentation includes step‑by‑step setup, attack simulations, and remediation steps.*
