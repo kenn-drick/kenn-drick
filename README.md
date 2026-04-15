@@ -15,8 +15,8 @@ My approach: *think like an attacker, defend like an engineer.*
 | Project | Description | Skills |
 |---------|-------------|--------|
 | **[Active Directory Lab](https://github.com/kenn-drick/Active-Directory-Lab)** | Built domain controllers, DNS, DHCP, Group Policies, user/group management. Simulated Kerberoasting, Pass-the-Hash, privilege escalation → then applied detection & hardening. | `AD` `Red Team` `Blue Team` `GPO` |
-| **[Vulnerability Assessment with Nessus](https://github.com/yourusername/nessus-lab)** | Scanned Windows & Linux VMs for misconfigurations and missing patches. Analysed findings and implemented remediations. | `Nessus` `Vulnerability Management` |
-| **[Python Security Scripts](https://github.com/yourusername/python-security-scripts)** | Password hashing, encryption/decryption, brute‑force key script (used in AIG virtual experience). | `Python` `Automation` |
+| **[Vulnerability Assessment with Nessus](https://github.com/kenn-drick/Vulnerability-Assessment)** | Scanned Windows & Linux VMs for misconfigurations and missing patches. Analysed findings and implemented remediations. | `Nessus` `Vulnerability Management` |
+| **[Python Security Scripts](https://github.com/kenn-drick#)** | Password hashing, encryption/decryption, brute‑force key script (used in AIG virtual experience). | `Python` `Automation` |
 | **[CTF Write‑ups](https://medium.com/@k3ndr1ck)** | Technical walkthroughs for TryHackMe & HackTheBox challenges. | `Enumeration` `Exploitation` `Reporting` |
 
 ---
